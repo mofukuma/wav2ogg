@@ -1,0 +1,1 @@
+pyinstaller wav2ogg.py --onefile --noconsole
